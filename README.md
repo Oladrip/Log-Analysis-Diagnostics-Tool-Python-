@@ -125,4 +125,4 @@ For questions or support, please open an issue in the repository.
 
 ---
 
-**© 2025 - Log Analysis & Diagnostics Tool**
+**© 2025 - Log Analysis & Diagnostics Tool. @Isiaq Amura**
